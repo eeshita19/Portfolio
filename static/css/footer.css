@@ -1,6 +1,15 @@
 .footer {
     background-color: #282828;
-    padding: 0px;
+    padding-top: 50px;
+}
+.container-fluid{
+    margin-right: 0px;
+     margin-left: 0px; 
+     padding-right: 0px; 
+     padding-left: 0px;
+}
+.extraSpace{
+    padding-bottom: 0px;
 }
 
 .socialIcons li a img {
