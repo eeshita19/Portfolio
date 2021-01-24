@@ -34,7 +34,8 @@ function navScroll(){
                 && !(filename === 'software') && !(filename === 'electronics')
                 && !(filename === 'films') && !(filename === 'photography')) {
                 $(".scrollN").css({
-                    "color":"white"
+                    "color":"black"
+                
                 })
             }
 
